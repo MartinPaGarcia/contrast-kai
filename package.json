@@ -2,6 +2,7 @@
     "name": "dark-kai",
     "displayName": "Dark kai",
     "description": "A colorful theme that allows the user to visualize the code in a more striking way",
+    "icon": "images/Sc4.png",
     "version": "0.5.0",
     "publisher": "MartinPalomaresGarcia",
     "engines": {
