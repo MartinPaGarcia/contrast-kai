@@ -3,9 +3,22 @@
     "displayName": "Contrast kai",
     "description": "A colorful theme that allows the user to visualize the code in a more striking way",
     "version": "0.0.1",
+    "publisher": "MartinPalomaresGarcia",
     "engines": {
         "vscode": "^1.61.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MartinPaGarcia/contrast-kai"
+    },
+    "keywords": [
+        "dark theme",
+        "theme",
+        "code dark theme",
+        "colorful theme",
+        "cool theme",
+        "new theme"
+    ],
     "categories": [
         "Themes"
     ],
