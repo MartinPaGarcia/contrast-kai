@@ -1,9 +1,21 @@
-# Change Log
+# Dark-kai changelog
 
-All notable changes to the "contrast-kai" extension will be documented in this file.
+## Release highlights
+All notable changes to the "Contrast-kai" extension.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+
+# [0.6.0] - 2021-10-25
+### Added 
+- New color pallet 
+- Icon
+
+### changed
+
+- Yellow color transparency in main menu
+
 
 ## [Unreleased]
 
-- Initial release
+
+
