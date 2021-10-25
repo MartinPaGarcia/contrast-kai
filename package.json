@@ -2,7 +2,7 @@
     "name": "dark-kai",
     "displayName": "Dark kai",
     "description": "A colorful theme that allows the user to visualize the code in a more striking way",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "MartinPalomaresGarcia",
     "engines": {
         "vscode": "^1.61.0"
@@ -22,7 +22,6 @@
     "categories": [
         "Themes"
     ],
-
     "contributes": {
         "themes": [
             {
