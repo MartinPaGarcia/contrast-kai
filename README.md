@@ -1,6 +1,10 @@
 # README
-## This is the README for your extension "contrast-kai"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Dark Kai theme
+A colorful theme that allows the user to visualize the code in a more striking way
+
+Here are some examples of how this theme looks like:
+
+![](images/filename%20Sc1.png)
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
