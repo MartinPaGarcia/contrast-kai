@@ -4,7 +4,7 @@ A colorful theme that allows the user to visualize the code in a more striking w
 
 Here are some examples of how this theme looks like:
 
-![](images/filename%20Sc1.png)
+![image_example1](images/filename%20Sc1.png)
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
