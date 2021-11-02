@@ -5,14 +5,14 @@ All notable changes to the "Contrast-kai" extension.
 
 
 
-# [0.6.0] - 2021-10-25
+# [0.7.0] - 2021-11-01
 ### Added 
-- New color pallet 
-- Icon
+- New color pallet (goodbye October orange for git decoration changes)
+
 
 ### changed
 
-- Yellow color transparency in main menu
+- New yellow colors for git deco
 
 
 ## [Unreleased]
